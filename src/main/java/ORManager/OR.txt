@@ -1,0 +1,6 @@
+convert_From=ConvertFrom
+amount=Amount
+convert_To=ConvertTo
+convert_Button=convert
+error_Message=//*[@id="errordiv"]/ul/li
+converted_Message=//*[@id="resultsdiv"]
